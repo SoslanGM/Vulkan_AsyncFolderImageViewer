@@ -5,7 +5,7 @@ Requirements:
 - Vulkan SDK and Runtime drivers.
 
 How to build:
-- launch build.bat in the code directory. That's it :)
+- cd into the code directory and launch build.bat. That's it :)
 
 How to use:
 - In the source.cpp, in WinMain(), type in the folder of interest.
