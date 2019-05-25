@@ -1,6 +1,6 @@
 @echo off
 
-IF NOT EXIST ..\..\build mkdir ..\..\build
+IF NOT EXIST ..\build mkdir ..\build
 pushd ..\build
 
 glslangValidator -V ..\code\viewer.vert -o viewer_vert.spv
